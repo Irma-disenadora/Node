@@ -1,0 +1,12 @@
+extends layout
+block content
+
+head
+	title=Node
+	<link rel="stylesheet" type="text/css" href="public/stylesheets/style.css">
+
+body
+	nav <a href="seccion 1">Ir a la sección 1</a>
+		<a href="seccion 2">Ir a la sección 2</a>
+		<a href="seccion 3">Ir a la sección 3</a>
+		<a href="seccion 4">Ir a la sección 4</a>
